@@ -1,6 +1,6 @@
 module demo/xxClientDemo1
 
-go 1.18
+go 1.17
 
 require (
 	gitlab.com/elixxir/client v1.5.1-0.20220701200420-2a7dfec6bdd7
