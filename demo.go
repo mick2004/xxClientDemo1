@@ -53,7 +53,7 @@ func main() {
 		}
 	}
 
-	fmt.Print("------APS New Client created----0-----")
+	//fmt.Print("------APS New Client created----0-----")
 
 	// Login to your client session-----------------------------------------------------
 
@@ -64,7 +64,7 @@ func main() {
 		fmt.Printf("Failed to initialize client: %+v", err)
 	}
 
-	fmt.Print("------Login done----1-----")
+	//fmt.Print("------Login done----1-----")
 
 	// view current user identity--------------------------------------------------------
 	user := client.GetUser()
