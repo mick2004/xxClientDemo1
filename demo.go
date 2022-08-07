@@ -70,7 +70,7 @@ func main() {
 	user := client.GetUser()
 	fmt.Println(user)
 
-	fmt.Print("------Got new user----2-----")
+	//fmt.Print("------Got new user----2-----")
 	// Register a listener for messages--------------------------------------------------
 
 	// Set up a reception handler
